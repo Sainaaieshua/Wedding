@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'MAK Journal SansSerif';
+    src: url('MAKJournalSansSerif.eot');
+    src: url('MAKJournalSansSerif.eot?#iefix') format('embedded-opentype'),
+        url('MAKJournalSansSerif.woff') format('woff'),
+        url('MAKJournalSansSerif.svg#MAKJournalSansSerif') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

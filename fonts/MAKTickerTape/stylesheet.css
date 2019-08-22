@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'MAK Ticker Tape';
+    src: url('MAKTickerTape.eot');
+    src: url('MAKTickerTape.eot?#iefix') format('embedded-opentype'),
+        url('MAKTickerTape.woff') format('woff'),
+        url('MAKTickerTape.svg#MAKTickerTape') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
